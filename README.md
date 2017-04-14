@@ -1,2 +1,6 @@
 # sudoku-solver
-solve the hardest sudoku known to human
+sudoku solver in various (programming) languages
+
+- [cpp](cpp/)
+- [cs](cs/)
+- [go](go/)
